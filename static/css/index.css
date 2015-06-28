@@ -206,7 +206,7 @@ footer{
 	min-height: 50px;
 	line-height: 50px;
 	margin-top: 80px;
-	background: #3f4850;
+	background: #0A0A0A;
 	color: #aaa;
 	text-align: center;
 
@@ -468,5 +468,3 @@ blockquote:last-child {
 		padding-left: 25px;
 	}
 }
-
-
