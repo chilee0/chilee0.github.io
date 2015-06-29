@@ -24,5 +24,7 @@ Google Chrome 如果主页被篡改，修改方式一样。
 ##注册表清理
 
 删除下面这两处的Start Page键值。
+
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\Main]
+
 [HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Internet Explorer\Main]
