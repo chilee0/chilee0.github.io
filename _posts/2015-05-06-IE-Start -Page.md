@@ -28,3 +28,5 @@ Google Chrome 如果主页被篡改，修改方式一样。
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\Main]
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Internet Explorer\Main]
+
+---
