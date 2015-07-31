@@ -44,7 +44,7 @@ icon: glyphicon-user
 
 #### 友情链接
 
-[致乐网络](http://www.chilee.xyz/) \| [五鸿科技](https://www.hnwuhong.com) \| [锦坤国际](http://www.jinkun.org/) \| [泰然门窗](http://www.tairanmc.com//) 
+[致乐网络](http://www.chilee.xyz/) \| [五鸿科技](http://www.hnwuhong.com) \| [锦坤国际](http://www.jinkun.org/) \| [泰然门窗](http://www.tairanmc.com//) 
  
 ---
  连床柢足话昔时，秉烛待旦忆年少。
