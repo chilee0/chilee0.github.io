@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "《跨出这一步，一起找出路！》（转载）"
+title:  "《跨出这一步，一起找出路！》"
 date:   2015-08-06 10:15:55
 categories: 转载
-excerpt: 《跨出这一步，一起找出路！》（转载）
+excerpt: 《跨出这一步，一起找出路！》
 ---
 
 * content
