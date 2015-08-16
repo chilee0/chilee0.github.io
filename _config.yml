@@ -1,5 +1,5 @@
 # Site settings
-title: 乾溪
+title: 乾 溪
 email: lizhi89315@gmail.com
 description: 致乐网络
 # > # this means to ignore newlines until "baseurl:"
@@ -8,8 +8,8 @@ description: 致乐网络
 #   Google search results) and in your feed.xml site description.
 
 # baseurl: "" # the subpath of your site, e.g. /blog/
-# url: "http://yourdomain.com" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
+url: "http://chilee.xyz # the base hostname & protocol for your site
+twitter_username: VaporLee
 github_username:  chilee0
 twitter_username: VaporLee
 permalink: /:year/:month/:day/:title/
