@@ -8,7 +8,7 @@ description: 致乐网络
 #   Google search results) and in your feed.xml site description.
 
 # baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://chilee.xyz"# the base hostname & protocol for your site
+# url: "http://chilee.xyz"# the base hostname & protocol for your site
 github_username:  chilee0
 twitter_username: VaporLee
 permalink: /:year/:month/:day/:title/
