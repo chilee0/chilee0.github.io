@@ -30,11 +30,19 @@ icon: glyphicon-user
 
 所以以后日志的内容大致也会围绕这几个方面继续，这博客会长期更新，也许没有终点，按道理也应该不会停止。在此为记。
 
+>####2016年5月24 改网站名“乾溪”为“憩园”####
+
+要挣钱养家糊口了，儿子一天天长大，越来越懂事，越来越离不开了。儿子现在还爸妈不分，总是喊我“妈妈”，好欢喜。
+憩园，憩息的园地，我总会在一个好的地方落脚，在一个恬静和谐的地方养大我儿子，this is my dream!
+
+
+
 
 ### 联系我
 
 * email：[lizhi89315@gmail.com](mailto:{{ site.email }})
 * QQ：451448204
+* 电话：18607405094
 * Weibo：[九仁](http://weibo.com/jiuren1989)
 * 知乎：[九仁](http://www.zhihu.com/people/chilee)
 * 致乐网络：[CHILEE](http://www.chilee.xyz/)
@@ -49,6 +57,7 @@ icon: glyphicon-user
 这个博客是基于Jekyll,采用了HyG的模板，稍做调整，放在Github上，希望长存。
 
 2015.6.15 | 模板调整和内容编写。
+2015.8.16 | 改博客名。
 
 
 ---
