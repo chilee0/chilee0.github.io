@@ -21,11 +21,11 @@ excerpt: 南江印象时尚餐厅logo及部分物料
 
 ![caipu](/css/pics/nanjiangyinxiang/4.jpg "logo定稿") 
 
-## 南江印象时尚餐厅招聘设计
+## 南江印象时尚餐厅招牌设计
 
 ![caipu](/css/pics/nanjiangyinxiang/7.png "发光字招牌") 
 
-## 南江印象时尚餐厅便携菜谱
+## 南江印象时尚餐厅点餐单
 
 ![caipu](/css/pics/nanjiangyinxiang/5.jpg "菜单") 
 
