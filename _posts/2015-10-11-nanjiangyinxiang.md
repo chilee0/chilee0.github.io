@@ -31,4 +31,12 @@ excerpt: 南江印象时尚餐厅logo及部分物料
 
 ![caipu](/css/pics/nanjiangyinxiang/6.jpg "菜单")
 
+## 南江印象时尚餐厅三折页菜单
+
+![caipu](/css/pics/nanjiangyinxiang/8.jpg "菜单") 
+
+![caipu](/css/pics/nanjiangyinxiang/9.jpg "菜单")
+
+![caipu](/css/pics/nanjiangyinxiang/10.jpg "菜单")
+
  
